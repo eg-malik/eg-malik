@@ -26,3 +26,15 @@
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,github,git,vscode" />
     <img src="https://skillicons.dev/icons?i=javascript,nodejs,mongodb,express,firebase,mysql" /><br>
 </div>
+
+<br/>
+<hr/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/eg-malik/eg-malik/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
