@@ -3,8 +3,6 @@
 </h1>
 
 <h3 align="center">A seasoned full-stack web developer based in Florida. 🌞🌴</h3>
-
-<br/>
  
 <h2 align="center">Tech Stack 💻</h2>
 <br/>
@@ -17,9 +15,8 @@
 <hr/>
 
 <div align="center">
-  <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/eg-malik/eg-malik/output/github-contribution-grid-snake-dark.svg" />
   
-  <br/><br/><br/>
+  
 </div>
 
