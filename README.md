@@ -23,6 +23,6 @@
 <h2 align="center">Tech Stack 💻</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,boostrap,github,git,vscode" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,github,git,vscode" />
     <img src="https://skillicons.dev/icons?i=javascript,nodejs,mongodb,express,firebase,mysql" /><br>
 </div>
