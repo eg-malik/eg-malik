@@ -5,20 +5,6 @@
 <h3 align="center">A seasoned full-stack web developer based in Florida. 🌞🌴</h3>
 
 <br/>
-
-<div align="center">
- 
- 🔭 I’m currently working on **...**
- 
- 🌱 I’m currently learning **...**
-
-💬 Ask me about **...**
-
-⚡ Fun fact **...**
-
- </div>
-
-<hr/>
  
 <h2 align="center">Tech Stack 💻</h2>
 <br/>
